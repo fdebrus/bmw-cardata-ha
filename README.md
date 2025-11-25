@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="logo.png" alt="BimmerData Streamline logo" width="240" />
-</p>
+<img src="logo.png" alt="BimmerData Streamline logo" width="240" />
+<img width="240" alt="image" src="https://github.com/user-attachments/assets/a097b740-c34a-412b-a73f-c6517447a12e" />
+<img width="240" alt="image" src="https://github.com/user-attachments/assets/9513b807-0669-4785-8940-f2711948c22d" />
+
 
 # BimmerData Streamline (BMW CarData for Home Assistant)
 
